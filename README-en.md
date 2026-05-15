@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="./assets/logo.svg" alt="docs-en-mi-idioma" width="160" height="160">
-</p>
-
 # docs-en-mi-idioma
 
 > Spanish translations of technical documentation for the Spanish-speaking developer
 > community.
+
+<p align="center">
+  <img src="./assets/logo.svg" alt="docs-en-mi-idioma" width="160" height="160">
+</p>
 
 A personal, community-driven project to make open-source library documentation accessible in Spanish; for developers at every level, everywhere.
 

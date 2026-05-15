@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="./assets/logo.svg" alt="docs-en-mi-idioma" width="160" height="160">
-</p>
-
 # docs-en-mi-idioma
 
 > Traducciones al español de documentación técnica para la comunidad de habla hispana.
+
+<p align="center">
+  <img src="./assets/logo.svg" alt="docs-en-mi-idioma" width="160" height="160">
+</p>
 
 Un proyecto personal y comunitario para que la documentación de librerías open source sea accesible en español; sin importar tu nivel de experiencia ni dónde estés.
 
