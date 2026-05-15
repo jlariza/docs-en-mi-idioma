@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="docs-en-mi-idioma logo">
+  <title>docs-en-mi-idioma</title>
+  <path d="M40,68 a14,14 0 0 1 14,-14 H102 a8,8 0 0 1 6,2.6 L120,68 H202 a14,14 0 0 1 14,14 V202 a14,14 0 0 1 -14,14 H54 a14,14 0 0 1 -14,-14 z" fill="#3A2A20"/>
+  <rect x="40" y="92" width="176" height="4" fill="#231811" opacity="0.6"/>
+  <text x="128" y="172" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="62" font-weight="700" fill="#E8C9A0">.es</text>
+</svg>

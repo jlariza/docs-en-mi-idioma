@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.svg" alt="docs-en-mi-idioma" width="160" height="160">
+</p>
+
 # docs-en-mi-idioma
 
 > Spanish translations of technical documentation for the Spanish-speaking developer
@@ -102,9 +106,8 @@ All contributors will be credited in this repository.
 
 This project is maintained voluntarily. If you find it useful and want to support it, you can do so through:
 
-- **GitHub Sponsors:** [github.com/sponsors/jlariza](https://github.com/sponsors/jlariza)
-  *(coming soon)*
-- **Ko-fi:** [ko-fi.com/jlariza](https://ko-fi.com/jlariza) *(coming soon)*
+- **GitHub Sponsors:** [github.com/sponsors/jlariza](https://github.com/sponsors/jlariza) *(coming soon)*
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31XJAU4)
 
 No obligation, no pressure — but always appreciated.
 

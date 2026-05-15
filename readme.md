@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.svg" alt="docs-en-mi-idioma" width="160" height="160">
+</p>
+
 # docs-en-mi-idioma
 
 > Traducciones al español de documentación técnica para la comunidad de habla hispana.
@@ -99,9 +103,9 @@ Todos los contribuidores serán reconocidos en este repositorio.
 
 Este proyecto se mantiene de forma voluntaria. Si te parece útil y querés apoyarlo, podés hacerlo a través de:
 
-- **GitHub Sponsors:** [github.com/sponsors/jlariza](https://github.com/sponsors/jlariza)
-  *(próximamente)*
-- **Ko-fi:** [ko-fi.com/jlariza](https://ko-fi.com/jlariza) *(próximamente)*
+- **GitHub Sponsors:** [github.com/sponsors/jlariza](https://github.com/sponsors/jlariza) *(próximamente)*
+
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31XJAU4)
 
 No es obligatorio ni esperado;  pero siempre bienvenido.
 
